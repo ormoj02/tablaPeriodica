@@ -1,0 +1,1271 @@
+
+.titulo {
+    font-family: "Gabarito", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+}
+
+.titulo p {
+    font-size: 20px;
+}
+
+
+.element.H {
+    background-image: url('https://www.thoughtco.com/thmb/Ves0j0ZWtkIyw5GhIGoxYwUqXEs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crabnebula-57e1baaa3df78c9cce3394a6.jpg');
+    background-size: cover; /*Esto es para que la imagen se ajuste al tamaño del contenedor*/
+    background-repeat: no-repeat;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: rgb(68, 123, 172); 
+
+}
+.element.He {
+    background-image: url('https://www.thoughtco.com/thmb/L-bQmRRBGfkqNnFGrpJXUdA4_ls=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2_Helium-liquid-58b5e4235f9b586046ff4121.png');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+.element.Li {
+    background-image: url('https://www.thoughtco.com/thmb/0ntJ-Bf9KIOgDp0obhKKhnnPG4Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lithium_element-58b5e41f5f9b586046ff360e.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+.element.Be {
+    background-image: url('https://www.thoughtco.com/thmb/Lk4Uddum97guohM1z57CHB7p4Gs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chinese-folding-glasses-with-beryllium-lenses-china-mid-18th-century-530024911-58b5e4183df78cdcd8efebb7.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.B {
+    background-image: url('https://www.thoughtco.com/thmb/uEaRA6Q0-rkrBkjJSA2mattV1RM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Boron_R105-58b5e4113df78cdcd8efd42e.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.C {
+    background-image: url('https://www.thoughtco.com/thmb/3kQMVfyfQoDcvtd7RJG7vDPabDE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/forms-of-carbon-including-a-coal-charcoal-graphite-and-diamonds-76128281-58b5e4093df78cdcd8efbbf0.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.N {
+    background-image: url('https://www.thoughtco.com/thmb/KqyzWlbC539ycx7d0LVDEWGuIE4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nitrogen-glow-58b5dcab5f9b586046ea0671.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.O {
+    background-image: url('hhttps://www.thoughtco.com/thmb/iMTjXW5zxvRkCoald5Hu_rTrJRg=/750x0/filters:gifv(webm)/oxygen-58b5b3b25f9b586046bd59e3.gif');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.F {
+    background-image: url('https://www.thoughtco.com/thmb/Swt5QJAKTfDqlFKMYPZTH5YwIS4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Liquid_fluorine_tighter_crop-58b5e3f73df78cdcd8ef869d.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Ne {
+    background-image: url('https://www.thoughtco.com/thmb/0jjYjkFXNfluxZgFoyV00zgEv6s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Neon-glow-58b5e2333df78cdcd8ea1954.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Na {
+    background-image: url('https://www.thoughtco.com/thmb/VFwJI5SADFkuWlYMQzJaxXycDAw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sodiummetal-58b5b3c43df78cdcd8ae6517.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Mg {
+    background-image: url('https://www.thoughtco.com/thmb/NA-cJOWS5rrsKU5cx8QFvnHJFIA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/magnesium-58b5b3ba5f9b586046bd6f0f.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Al {
+    background-image: url('https://www.thoughtco.com/thmb/RBcU_IV45F9tmRcpUObKP1pMrQo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/72892858-58b5e3e15f9b586046fe7ece.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Si {
+    background-image: url('https://www.thoughtco.com/thmb/QX7z1DruYAICM-xY0L-RX4UrFdk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silicon-58b5e3d95f9b586046fe63cc.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.P {
+    background-image: url('https://www.thoughtco.com/thmb/_lE7F1hrMy4xUnM7roKrfHjoweo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/phosphorus_allotropes-58b5dc9c3df78cdcd8da9840.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.S {
+    background-image: url('https://www.thoughtco.com/thmb/Vm_T-ARG37yZDp-eXpS3YdQckEM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/close-up-of-sulphur-73685364-58b5e3ce3df78cdcd8ef0cf0.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Cl {
+    background-image: url('https://www.thoughtco.com/thmb/9AfNLapm9YFrUXkHcYMiZzp-KLM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/test-tube-of-chlorine-condensed-into-liquid-by-dipping-into-jug-of-dry-ice-83189284-58b5e3c33df78cdcd8eeeb53.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Ar {
+    background-image: url('https://www.thoughtco.com/thmb/qr6PJayNc2YJnuwIWzigwLVwzIs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/argonice-58b44b6c5f9b586046e57c02.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.K {
+    background-image: url('https://www.thoughtco.com/thmb/GsdiwVROdH3W0V7m84bXqJMyZkY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/81992232-58b5e3b45f9b586046fdf21a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Ca {
+    background-image: url('https://www.thoughtco.com/thmb/7S70pHbSpZbt63IW0heMGzAdfgU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Calcium_1-58b5b3e53df78cdcd8aebde8.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Sc {
+    background-image: url('https://www.thoughtco.com/thmb/bfZtsV4G2l7iE2FDvUfzj2UOGm4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scandium_sublimed_dendritic_and_1cm3_cube-58b5e3a63df78cdcd8ee910f.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Ti {
+    background-image: url('https://www.thoughtco.com/thmb/uGNrzQaEZUKbZ9KOpgUKnC4m310=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/titanium-crystals-58b5e39b3df78cdcd8ee6b67.JPG ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.V {
+    background-image: url('https://www.thoughtco.com/thmb/j9ZxCNfAND1vcaywFgiDrjbGSB8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1024px-Vanadium_crystal_bar_and_1cm3_cube-58b5e3915f9b586046fd8449.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Cr {
+    background-image: url('https://www.thoughtco.com/thmb/aJprkNE-OX-amMBfy3wy00bs1uE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chromium_crystals_cube-58b5c2293df78cdcd8b9d1dc.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); 
+}
+
+.element.Mn {
+    background-image: url('https://www.thoughtco.com/thmb/apu6IwIujdwB-fsJObhDKe24W0s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-holds-handful-of-manganese-531114326-58b5e3813df78cdcd8ee1979.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Fe {
+    background-image: url('https://www.thoughtco.com/thmb/VdOb0wBRpPBbib_1PuIZCWh-ei8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iron-58b5c6d15f9b586046cacc06.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Co {
+    background-image: url('https://www.thoughtco.com/thmb/GBfg4Gk4RhNGyt7nFUKY5C3n6jA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cobalt-58b5e3753df78cdcd8edf5e0.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ni {
+    background-image: url('https://www.thoughtco.com/thmb/3NyZt0XC-4GPIfBKW5Dsdb5mPjk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mineral-specimens-481531581-58b5e36f3df78cdcd8ede048.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Cu {
+    background-image: url('https://www.thoughtco.com/thmb/sCaeJkRkeWsyMpckHpS9HaphEGY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/native-copper-bolivia-south-america-128068306-58b5e3663df78cdcd8edc232.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Zn {
+    background-image: url('https://www.thoughtco.com/thmb/vtaA5kxMoDWLbusKEbTPaUbvEvs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zinc-mine-nugget-155360569-58b5e35e5f9b586046fce53e.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ga {
+    background-image: url('https://www.thoughtco.com/thmb/bDRldssPWrUIjUw_tEOxK4gALDI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gallium-58b5e3573df78cdcd8ed93e0.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ge {
+    background-image: url('https://www.thoughtco.com/thmb/tMAGlARV0sgvC8sCD4Xjl2DfkZk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/germanium-58b5e3543df78cdcd8ed87f2.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.As {
+    background-image: url('https://www.thoughtco.com/thmb/JM9n6_SAevXEPrhANQTatZKoT3g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/arsenic-75375793-58b5e34e5f9b586046fcb38b.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Se {
+    background-image: url('https://www.thoughtco.com/thmb/rjCcsdAzP7eBIkH1eK0yr-SEeFc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/selenium-58b5e3455f9b586046fc92c1.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Br {
+    background-image: url('https://www.thoughtco.com/thmb/ydn9KHyXtN6N4GTY3DQXbyqnlSo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Bromine-58b5e3405f9b586046fc83d4.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Kr {
+    background-image: url('https://www.thoughtco.com/thmb/P8A3OqmIwGr4QafRnKxhBoLipHw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Krypton_discharge_tube-58b5e3393df78cdcd8ed314b.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Rb {
+    background-image: url('https://www.thoughtco.com/thmb/rpOB4ewRXtg2sAr0GZsyEGz7nxQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rubidium-58b5e3313df78cdcd8ed1ab0.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Sr {
+    background-image: url('https://www.thoughtco.com/thmb/ct_dZqPgeP1iRNY3dbk4FNnfyHw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Strontium_destilled_crystals-58b5e3275f9b586046fc39db.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Y {
+    background-image: url('https://www.thoughtco.com/thmb/LJNXiuUzqoDFbzfrsJHq70mMNsM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yttrium-dendrites-cube-58b5e31c3df78cdcd8ecd911.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Zr {
+    background-image: url('https://www.thoughtco.com/thmb/H7czD5Xp7egV68Zh20C7n3-HhF0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zicronium-crystals-cube-58b5e3185f9b586046fc0c84.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Nb {
+    background-image: url('https://www.thoughtco.com/thmb/M34fjWEGXy8H3S357b8JJKLRw7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/niobium-crystals-cube-58b5e3155f9b586046fc01d0.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Mo {
+    background-image: url('https://www.thoughtco.com/thmb/y7fh6SNqUzCtk-ZDo-Mvg_YUn80=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/molybdenum-crystal-cube-58b5e30f5f9b586046fbf20d.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Tc {
+    background-image: url('https://www.thoughtco.com/thmb/5FTivmlUO_8maTxg0qJNV6a3shw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ruthenium_crystals-58b5e3063df78cdcd8ec9650.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ru {
+    background-image: url('https://www.thoughtco.com/thmb/tvLK3UAvMzEXEd8_u4RLupVAdMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rhodium_powder_pressed_melted-58b5e3005f9b586046fbc47a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Rh {
+    background-image: url('https://www.thoughtco.com/thmb/UnBKi5vZKDAVIKGjro_ESCN8i0I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/raw-silver-crystal-98955646-58b5e2f63df78cdcd8ec64d0.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Pd {
+    background-image: url('https://www.thoughtco.com/thmb/vbFNUfc6r9yM8dUPuDUtINqe5mI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cadmium-crystal_bar-58b5e2ea5f9b586046fb7f9a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ag {
+    background-image: url('https://www.thoughtco.com/thmb/E4VJlJwZf67fURneNWIcAsDjI8A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Indium-58b5c2195f9b586046c8f349.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Cd {
+    background-image: url('https://www.thoughtco.com/thmb/qM0mLpjDROAniwkZDyM-okEgC3w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sn-Alpha-Beta-58b5e2db5f9b586046fb519f.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.In {
+    background-image: url('https://www.thoughtco.com/thmb/6KK8D-zIuxXJCIieqE4AH0KHa6I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tellurium2-58b5e2d65f9b586046fb416a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Sn {
+    background-image: url('https://www.thoughtco.com/thmb/9cfjF3AHjCQA9SX4gTa1Hd8XToQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sublimation-of-iodine-solid-iodine-changes-directly-from-solid-to-gas-and-recrystallizes-on-glass-h-139822531-58b5e2d15f9b586046fb3264.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Sb {
+    background-image: url('https://www.thoughtco.com/thmb/xC3GG4MyVciwJaAYAOyWzDEJ6o8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/liquefied_xenon-58b5e2c95f9b586046fb1ab0.JPG ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Te {
+    background-image: url('https://www.thoughtco.com/thmb/PLNmMmRLhfjLf3nsLbXX2hw2ZaE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/europium-58b5c21e5f9b586046c8f373.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.I {
+    background-image: url('https://www.thoughtco.com/thmb/GpMyGsa6K5G889dr5-rtOES42YE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Thulium_sublimed_dendritic_and_1cm3_cube-58b5e2bd5f9b586046faf5ea.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Xe {
+    background-image: url('https://www.thoughtco.com/thmb/X2zSEG9Cg2vv06hHgUoZkpQDOro=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lutetium_sublimed_dendritic_and_1cm3_cube-58b5e2b15f9b586046fad099.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Cs {
+    background-image: url('https://www.thoughtco.com/thmb/B9B-jDC8Hy74SSqQocCOrvPwj2k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tantalum-58b5e2a75f9b586046fab4d5.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ba {
+    background-image: url('https://www.thoughtco.com/thmb/Z1IIfEnLk7tZjd-21-2SLn6xUeU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tungsten-or-wolfram-58b5e2a25f9b586046faa2aa.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.La {
+    background-image: url('https://www.thoughtco.com/thmb/CUXb62tvTchskMpkjNP93VW5ngI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/osmium-crystals-58b5e2995f9b586046fa8646.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ce {
+    background-image: url('https://www.thoughtco.com/thmb/zMO6yuJIiMBte51DmL9q76WZuE0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/platinum-crystals-58b5e2953df78cdcd8eb3f22.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Pr {
+    background-image: url('https://www.thoughtco.com/thmb/HfGPgWThfK44gkskVZNFpro76cc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gold-nugget-close-up-76128280-58b5e28e3df78cdcd8eb280a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Nd {
+    background-image: url('https://www.thoughtco.com/thmb/YKh2advqjpryktZciA-Ed6ja5Mc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/droplets-of-liquid-mercury-on-round-glass-tray-close-up-72002409-58b5e2825f9b586046fa3f36.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Pm {
+    background-image: url('https://www.thoughtco.com/thmb/ys7sytpkyJKgCvvsUpouDzce0MM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Thallium_pieces_in_ampoule-58b5e2773df78cdcd8eae8f7.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+ 
+.element.Sm {
+    background-image: url('https://www.thoughtco.com/thmb/Rjlmah6Eb67QWhT4B225TRuZIG4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lead-metal-58b5e2723df78cdcd8ead8e8.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Eu {
+    background-image: url('https://www.thoughtco.com/thmb/N09xza2xP2MlDM0cSt0mTfrzT8c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/really-and-pure-chemical-elements-here-shown-bismuth-bi-173234101-58b5e26e3df78cdcd8eacbac.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Gd {
+    background-image: url('https://www.thoughtco.com/thmb/dOxpvNh_pVN6iyIl0EXthNJNhTI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gloved-hands-with-uranium-521872354-58b5e2663df78cdcd8eab82a.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Tb {
+    background-image: url('https://www.thoughtco.com/thmb/mucVf2DVmKDvwAnZZ3OiAC_Idj8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Plutonium-58b5e25d3df78cdcd8ea9a7c.jpg ');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Hf {
+    background-image: url('https://periodictable.com/Samples/072.2/s9s.JPG');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ta {
+    background-image: url('https://images-of-elements.com/s/tantalum.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.W {
+    background-image: url('https://images-of-elements.com/s/tungsten-rod-2.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Re {
+    background-image: url('https://images-of-elements.com/s/rhenium-3.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Os {
+    background-image: url('https://images-of-elements.com/s/osmium-2.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ir {
+    background-image: url('https://images-of-elements.com/s/iridium-2.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Pt {
+    background-image: url('https://images-of-elements.com/s/platinum.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Au {
+    background-image: url('https://images-of-elements.com/s/gold.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Hg {
+    background-image: url('https://images-of-elements.com/s/hydrargyrum.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Tl {
+    background-image: url('https://images-of-elements.com/s/thallium.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Pb {
+    background-image: url('https://images-of-elements.com/s/lead.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Bi {
+    background-image: url('https://images-of-elements.com/s/bismuth.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Po {
+    background-image: url('https://images-of-elements.com/s/polonium.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.At {
+    background-image: url('https://images-of-elements.com/s/astatine.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Rn {
+    background-image: url('https://images-of-elements.com/s/radon.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Fr {
+    background-image: url('https://images-of-elements.com/s/francium.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ra {
+    background-image: url('https://images-of-elements.com/s/radium-paint.jpg');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ac {
+    background-image: url('https://images-of-elements.com/t/actinium.png');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Db {
+    background-image: url('https://images-of-elements.com/s/transactinoid.png');
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Sg {
+    background-image: url('https://periodiske-system.dk/img/images/lowRes/106.jpg' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Bh {
+    background-image: url('https://th.bing.com/th/id/R.2cae40c9994f1c0eb782064e6e40374a?rik=AXHhOLIxSdMosA&pid=ImgRaw&r=0' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Hs {
+    background-image: url('https://cdn1.byjus.com/wp-content/uploads/2018/08/Hassium-2.jpg' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Mt {
+    background-image: url('https://th.bing.com/th/id/OIP.47nBDzRj3QDJFGWIVOatnwHaHa?rs=1&pid=ImgDetMain' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ds {
+    background-image: url('https://th.bing.com/th/id/OIP.3sZhM7x9Y3z8oxbXjsc7vQHaFj?rs=1&pid=ImgDetMain ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Rg {
+    background-image: url('https://images.wisegeek.com/close-view-of-bismuth.jpg ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Cn {
+    background-image: url('https://cdn1.byjus.com/wp-content/uploads/2018/08/Copernicium-2.jpg ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Nh {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtVazXJsoN3f5cN5IyX260EZWW6CKcfAeiHR4U5xvn4ZHEvHaEiEq8bP_H5_6 ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Fl {
+    background-image: url('https://png.pngtree.com/background/20230602/original/pngtree-flerovium-chemical-element-periodic-table-science-symbol-photo-picture-image_2846168.jpg ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Mc {
+    background-image: url('https://th.bing.com/th/id/OIP.GrJE-yn1LMzufVyc8InJ9wHaFj?rs=1&pid=ImgDetMain' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Lv {
+    background-image: url('https://img.freepik.com/premium-vector/livermorium-symbol-chemical-element-periodic-table-vector-illustration_601298-7133.jpg?w=2000 ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Ts {
+    background-image: url('https://www.microsiervos.com/img/NucleoTennesino.jpg ' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
+
+.element.Og {
+    background-image: url('https://encyclopedia-of-meteorites.com/test/8efb_1.JPG' );
+    background-size: cover;
+    display: flex; /*Esto es para que el contenido se centre en el eje X*/
+        justify-content: center; /*Este es el que centra el contenido, especificamente el texto*/
+        align-items: center; /*Este centro el contenido en el eje Y*/
+        border: 1px solid #000;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase; 
+        color: rgb(68, 123, 172); ;
+}
